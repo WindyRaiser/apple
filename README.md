@@ -6,4 +6,6 @@
 3. Image file 작성은 장수현
 4. 작성 메뉴얼 작성은 서우진
 
-5 ....
+
+5 예제 파일은 Do it! HTML CSS 자바 스크립  3장 파일 Deam Jeju 파일 
+
